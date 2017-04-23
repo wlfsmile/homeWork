@@ -3,6 +3,8 @@
 
 ##### 作业要求 1.0
 + 完成github上的100du文件夹里面的psd图里面的静态页面
++ 完成所有的动画效果
++ 具体效果地址：http://htmlpreview.github.io/?https://github.com/wlfsmile/learnDemo/blob/master/100du/index.html
 + 全部用jQuery写
 + 自己用ps切图
 + 截止时间为第十周周日（2017.5.7）
